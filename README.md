@@ -15,7 +15,7 @@ Amazon AppFlow を使用すると、数分でアプリケーションを統合�
 
 
 ## アーキテクチャ図
-
+![image](https://github.com/Kana-Karin/aws-appflow-to-gspreadsheet/assets/84316229/8735d42c-2865-4610-adf2-f40b4719d0e3)
 
 ## 前提条件
 - Googleアカウントの作成済み
